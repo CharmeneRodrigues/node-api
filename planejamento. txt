@@ -1,0 +1,7 @@
+CRUD PARA PHRASES
+POST   /frases      - criar frases novas
+GET    /frases      - listar todas as frases
+GET    /frase/12345 - pegar informações de uma frase
+PUT    /frase/12345 - atualizar informações de uma frase
+DELETE /frase/12345 - deletar uma frase
+GET    /frase/aleatoria-pegar uma frase aleatoria
